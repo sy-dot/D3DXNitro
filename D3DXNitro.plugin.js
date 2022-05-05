@@ -6,6 +6,7 @@
  * @source https://github.com/sy-dot/D3DXNitro
  * @updateUrl https://raw.githubusercontent.com/sy-dot/D3DXNitro/main/D3DXNitro.plugin.js
  */
+
  module.exports = class xxx {
   load() { }
   start() {
