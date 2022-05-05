@@ -1,6 +1,6 @@
 # D3DXNitro
 
-#### Требуется Better Discord
+#### Требуется [Better Discord!](https://betterdiscord.app/)
 
 *Только демка.* 
 
