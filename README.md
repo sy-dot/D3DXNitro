@@ -4,4 +4,4 @@
 
 *Только демка.* 
 
-> Не совместимо с **[Freemoji](https://github.com/QbDesu/BetterDiscordAddons/tree/potato/Plugins/Freemoji){:target="_blank"}**
+> Не совместимо с **[Freemoji](https://github.com/QbDesu/BetterDiscordAddons/tree/potato/Plugins/Freemoji)**
