@@ -3,7 +3,8 @@
  * @version 1.0.0.0
  * @description Go to sex without condon!
  * @author sy
- *  
+ * @source https://github.com/sy-dot/D3DXNitro
+ * @updateUrl https://raw.githubusercontent.com/sy-dot/D3DXNitro/main/D3DXNitro.plugin.js
  */
  module.exports = class xxx {
   load() { }
