@@ -5,20 +5,11 @@
  * @author sy
  *  
  */
-
  module.exports = class xxx {
-     
   load() { }
   start() {
-
-//code here
-
-BdApi.findModuleByProps("getCurrentUser").getCurrentUser().premiumType = 2;
-BdApi.alert("Заебись!", "FullHD & 60FPS воркает! А если нет, значит это пофиксили... (ツ)", 1);
-
-//stop coding
+    BdApi.findModuleByProps("getCurrentUser").getCurrentUser().premiumType = 2;
+    BdApi.alert("Заебись!", "FullHD & 60FPS воркает! А если нет, значит это пофиксили... (ツ)", 1);
 }
-stop(){
 
-}
-}
+stop(){ }}
